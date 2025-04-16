@@ -1,10 +1,9 @@
 import React from 'react'
-import CTCBtn from './CTCBtn'
 
 const ContactFormSection = () => {
     return (
         <section className='min-h-screen flex justify-center items-center'>
-            <div className='max-w-7xl min-h-[80vh] flex justify-center items-center mx-auto rounded-4xl p-10 bg-[#f1f1f1]'>
+            <div className='max-w-6xl min-h-[80vh] flex justify-center items-center mx-auto rounded-4xl p-10 bg-[#f1f1f1]'>
                 <div className="flex justify-between items-center">
                     <div className='basis-1/2 flex flex-col gap-10'>
                         <h1 className='text-8xl'>Be Bold</h1>
