@@ -15,7 +15,7 @@ const FeaturesSection = () => {
                     <h1 className="text-3xl sm:text-4xl font-bold text-center">Workspace Solutions</h1>
 
                     <div className="flex flex-col md:flex-row justify-between gap-6">
-                        {/* Private Office */}
+
                         <div className="flex-1 px-2 md:border-r md:border-white">
                             <h2 className="underline text-xl sm:text-2xl font-semibold mb-4">Private Office</h2>
                             <ol className="list-decimal list-inside space-y-3 text-lg sm:text-xl">
@@ -24,8 +24,6 @@ const FeaturesSection = () => {
                                 <li>Office Suites</li>
                             </ol>
                         </div>
-
-                        {/* Virtual Office */}
                         <div className="flex-1 px-2 md:border-r md:border-white">
                             <h2 className="underline text-xl sm:text-2xl font-semibold mb-4">Virtual Office</h2>
                             <ol className="list-decimal list-inside space-y-3 text-lg sm:text-xl">
@@ -34,8 +32,6 @@ const FeaturesSection = () => {
                                 <li>Business Registration Plan</li>
                             </ol>
                         </div>
-
-                        {/* Flexible Office */}
                         <div className="flex-1 px-2">
                             <h2 className="underline text-xl sm:text-2xl font-semibold mb-4">Flexible Office</h2>
                             <ol className="list-decimal list-inside space-y-3 text-lg sm:text-xl">
